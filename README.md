@@ -7,8 +7,13 @@ In this lesson you will learn the story of how WordPress began as a simple blo
 ## Objectives
 
 After completing this lesson, you will be able to:
-
-*   Summarize and discuss the history of WordPress.
+* List and describe 6 Major Milestones of WordPress, including:
+ * Pre-History of WordPress.
+ * The conception of, and original contributors to, WordPress.
+ * The introduction of Hooks, Plugins, and Themes to WordPress.
+ * The founding of Automattic.
+ * The introduction of the modern dashboard.
+ * The evolution to becoming a CMS.
 
 ## Target Audience
 
@@ -67,25 +72,22 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Notes for the Instructor
 
-* None
+* Facilitation Directives:
+> **Facilitator** - action items, such as navigating in the slide presentation, are presented as a block-quote with the bold label.
+
+* Optional talking points:
+   > *Facilitation Talking Point - These aren't crucial to the objectives of the course, but are fun or interesting anecdotes from [Milestones: The Story of WordPress](https://github.com/WordPress/book) These will be italic block-quotes.*
 
 ## Have You Thought About...?
 
-* There can be some misunderstanding / misinformation about the history of WordPress. How will you handle different opinions?
+* There can be some misunderstanding / misinformation, or even disagreement about the history of WordPress. How will you handle different opinions?
 
 ## Lesson Overview
 
-* First do this
-* Then move on to this
-* Finish with this
+* This course is presented as a Lecture Discussion.
+* Bullet points are meant to be a guideline, not a script.
+* Facilitators should read [Milestones: The Story of WordPress](https://github.com/WordPress/book) to build expertise before facilitating the discussion.
 
-> The plan for the lesson. Outline form works well.
->
-> _For example:_
->
-> * Talk about what a theme is
-> * Demonstrate how to install and activate a theme
-> * Practice exercises to have participants find and install a theme on their own site
 
 ## Exercises
 
@@ -136,51 +138,94 @@ Participants will get the most from this lesson if they have familiarity with:
 1.  [Milestones: The Story of WordPress](https://github.com/WordPress/book) book
 2.  [History](https://codex.wordpress.org/History) @ Codex
 
-## Example Lesson
-
+## Pre-History of WordPress
+> **Facilitator** - Show Slide 1 - Title Slide
 ### Introduction
+> **Facilitator** - Introduce yourself and provide a short background of your expertise to establish your credibility.
 
-The concept of an online diary, also known as a blog, in which the latest entries are shown first, actually began in the mid-1990's. Blogs became very popular after the 9/11 attacks as people were very hungry for communication. The problem at that time, however, was that in order for the average person to blog, they needed technical knowledge of such things like HTML and CSS.
+## Lesson Objectives Overview
 
-#### Late 2000
+> **Facilitator** - Proceed to Slide 2 - Objectives
 
-French developer Michel Valdrighi was beginning to learn the server-side of the scripting language PHP. He also was experimenting with blogging software and decided to use the popular computer software application Blogger. However, like many bloggers of that time he found Blogger to be lacking in its functionality.
+In today's talk, you're going to learn about how WordPress was born, and grew into the project we know and love today.
+* The Origins of WordPress, before it became known as WordPress.
+* The conception of, and original authors of WordPress
+* The introduction of Hooks, Plugins, and Themes - which gave WordPress the capability to adapt to your needs.
+* The founding of Automattic, which gave WordPress the financial underpinnings to grow its developer base.
+* The introduction of the modern Dashboard, which is now your window to writing on the internet.
+* The evolution to a true Content Management System, or CMS.
 
-### Pre-WordPress - B2 Café log (also referred to as b2)
+#### Late 2000 - Pre-WordPress - B2 Café log (also referred to as b2)
+> **Facilitator** - Proceed to Slide 3
 
-#### 2001
+* The concept of an online diary, known as a "Weblog," started as early as the 90's.
+   > *Facilitation Talking Point - The phrase "Weblog" was jokingly pronounced "We Blog," which simultaneously shortened the term to "Blog," and made it into a verb.*
 
-One of Michel's first projects was a dictionary where he realized that he could use PHP to manipulate data. This inspired him to create his own blogging software. By June, Michel started developing b2, as a "[PHP](http://php.net/manual/en/intro-whatis.php)+[MySQL](https://www.siteground.com/tutorials/php-mysql/mysql.htm) alternative to Blogger and Grey Matter." The name b2 is a combination of the word “blog” and “Song 2” by the British band Blur. There is a quote in the song that says, "Not many new ideas in it, but it will feature stuff like a built-in comment system, good user management, user-avatars, multiple ways of archiving your blog” – these were all things that Michel felt were missing in the blogging software of that time.
+* At that time, skills in Web Programming were needed to publish their content to the Web.
+* Here you can see the post that started it all, when French Blogger Michel Valdrighi announced he was working on a "[PHP](http://php.net/manual/en/intro-whatis.php)+[MySQL](https://www.siteground.com/tutorials/php-mysql/mysql.htm) alternative to Blogger and Grey Matter."
 
-The installation was intended to be simple and only require an edited [config file](https://en.wikipedia.org/wiki/Configuration_file), the uploading of files, and launching an install script, all of which is very much like the 5-minute install used today. Unlike traditional blogging software of the time, by using the combination of PHP and MySQL, the pages of the site could be dynamically generated as changes were made.
+   > *Facilitation Talking Point - Valdrighi named his new blogging software "b2 Café Log", for the popular rock song "Song 2" by Blur. Woo-hoo!*
 
-Michel was new to development and he was later quoted as saying: "When you look at WordPress's code and think 'Wow, that is weird; why did they do that this way?' Well, often that was because they just kept doing things the way they were done in b2, and I sucked at PHP."
+> **Facilitator** - Proceed to the next element in the slide to display the caption.
 
-Michel wanted blogging to be available to everyone, from the novice to the experienced user to those who just want to publish their content online. For all of these reasons he chose a [GPL](http://www.gnu.org/licenses/gpl-3.0.en.html) license so that anyone could modify the software.  The choice that Michel made about using the GPL license has been one of the most significant decisions in the project’s history.
-
-Although b2 lacked a formal developer infrastructure it was open for contributions and the first contribution was [Pingback](https://en.support.wordpress.com/comments/pingbacks/) functionality. Since there was no formal structure, a community for the software quickly formed where developers frequented forums as a place where they could turn to other developers for help.
+* Michel announced that features included in his new software would include many of the ones you use in WordPress now, including:
+  * Built-in comment system.
+  * Good user management.
+  * User-avatars.
+  * Multiple ways of archiving.
+* Notably, the software could be installed on a hosting platform by making small edits to a config file, and then running an installation script; very similar to the famous "5-Minute Install."
+   > *Faclitation Talking Point - Years later, Valdrighi was quoted regarding the idiosyncrasies of WordPress's Code, saying, "When you look at WordPress's code and think 'Wow, that is weird; why did they do that this way?' Well, often that was because they just kept doing things the way they were done in b2, and I sucked at PHP."*
+* Most notably of all, Valdrighi made the decision to license b2 under the [GNU Pulic License](http://www.gnu.org/licenses/gpl-3.0.en.html), which meant that it could be modified by anyone.
 
 #### 2002
 
-Everything was going well with b2 until Michel lost his job, at which point maintenance of b2 began to slow.
-
-Meanwhile, in Houston Texas, [Matt Mullenweg](https://en.wikipedia.org/wiki/Matt_Mullenweg) (Matt) was home from school. Sitting down one day at his homemade PC, surrounded by posters of his favorite jazz musicians, he downloaded a copy of [Movable Type](https://movabletype.org/), installed it on a web server, and published his very first blog post.
+* b2 grew in popularity, but its developer, Michel Valdrighi, stopped maintaining the project or responding to communications.
 
 #### 2003
 
-It was at this point that Matt wrote a post called ["The Blogging Software Dilemma,"](https://ma.tt/2003/01/the-blogging-software-dilemma/) in which he proposed forking b2\.  Forking is the process of taking software and creating new software based on the original.
+> **Facilitator** - Proceed to slide 4 - The Blogging Software Dilemma
 
-The next day [Mike Little](https://mikelittle.org/) responded from Stockport, England, saying that if Matt was serious about forking b2, he would be interested in contributing. At that point, though b2 was almost dormant and was not being maintained, it was also at its height and had about 2,000 blogs using the software at that time.
+* On Januuary 24, 2003, Matt Mullenweg writes a blog post entitled "The Blogging Software Dilemma."
+  * In it, he laments that Valdrighi has been missing from the development community, and worries about his safety.
+  * Mullenweg speculates about the future, concerned about, among other things:
+    * Forward-compatibility.
+    * Features and flexibility.
+    * Licensing he can politically support.
+    * Ease of installation.
+> **Facilitator** - Proceed to the next element in the slide, revealing the caption.
 
-On April 1st, Matt and Mike forked a new branch of b2/cafelog on [Source Forge](https://sourceforge.net/), along with Matt's friend Christine Tremoulet. They called it WordPress and over the coming months, Matt and Mike submitted over 100 changes and additions known as "commits" to the software including repopulating files that were missing from the original branch of the fork.  WordPress version 0.7 was officially released on May 27, 2003 and featured a 300% performance boost.
+  * Mullenweg propses a fork of b2, since it is licensed under the GPL and is Free Software.
+* The following day, Mullenweg received a comment from [Mike Little](https://mikelittle.org/), a fellow blogger from Stockport, England.
+  * Little indicated that if Mullenweg was serious about his intent to fork b2, he would be willing to contribute.
+  * Mullenweg and Little submit over 100 commits between April 1 and May 27, 2003.
 
-On May 29th, 2003 Matt emailed [Donncha O’Caiomh](https://profiles.wordpress.org/donncha/) another web developer who had forked his own version of b2 to ask if he would consider merging his b2++ with WordPress. Donncha agreed, which raised the number of official WordPress developers to three.  In all actuality though b2++  remained separate for several more years and was known as [WPMU](http://premium.wpmudev.org/manuals/wpmu-manual-2/wordpress-wordpress-mu-and-wordpress-multisite/).
+#### Whoa. WordPress  
+> *Facilitator Talking Point - Matt Mullenweg is known for creating WordPress, but his love of Jazz and Haiku still survive into the modern day. Major releases of WordPress are still nicknamed after Jazz muscians, and the phrase, "Code is Poetry" still remains the mantra.*
 
-It was also at this time that [IRC communication](https://en.wikipedia.org/wiki/Internet_Relay_Chat) was set up as well as WordPress.org, which contained, among other things, a development blog and support forums.
+> **Facilitator** - Proceed to Slide 5, and proceed slowly to reveal each line of the first WordPress History Haiku.
 
-It appeared that things were going well, but actually, the first of many hurdles were beginning to arise.  A split was starting to take place between coders and non-coders in helping each other with the application. In November 2003 this lead to WP-docs being set up, followed in June 2004 by WP-hackers. In December 2003, the WordPress Wiki was launched as an informal way for anyone to contribute ideas to WordPress.
+* On May 22, 2003 Mullenweg updated his blog with a post titled, "Whoa. WordPress." In it he says that "WordPress [will be released] soon, very soon."
+
+> **Facilitator** - Proceed to Slide 6
+
+* Five days later, May 27, WordPress 0.7 is released. It features a 300% performance boost over b2.
+* Two days after that, [Donncha O’Caiomh](https://profiles.wordpress.org/donncha/) agrees to work together with Mullenweg and Little to merge his fork, b2++, with WordPress.
+  * This becomes known as [WPMU](http://premium.wpmudev.org/manuals/wpmu-manual-2/wordpress-wordpress-mu-and-wordpress-multisite/).
+
+> **Facilitator** - Proceed to show the caption
+
+* The Community begins to form, as communication channels are set up in the form of:
+  * [IRC Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat).
+  * WordPress.org .
+  * WP-docs.
+  * The WordPress Wiki.
+* Already, however, factions begin to form between developers and the users who utilize the software without development knowledge.
+
+> **Facilitator** - Proceed to show the sub-caption
 
 #### 2004
+
+* In January, 2004, WordPress 1.0 "Davis" is launched, named after famed Jazz Trumpeter Miles Davis.
 
 All [versions of WordPress](https://codex.wordpress.org/WordPress_Versions) were named after jazz greats because Matt had an affinity for jazz music. Version 1.0 was released in January and was named Davis after Jazz musician Miles Davis.
 
