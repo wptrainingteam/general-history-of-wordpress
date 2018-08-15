@@ -76,7 +76,7 @@ Participants will get the most from this lesson if they have familiarity with:
 > **Facilitator** - action items, such as navigating in the slide presentation, are presented as a block-quote with the bold label.
 
 * Optional talking points:
-   > *Facilitation Talking Point - These aren't crucial to the objectives of the course, but are fun or interesting anecdotes from [Milestones: The Story of WordPress](https://github.com/WordPress/book) These will be italic block-quotes.*
+   > *Facilitation Talking Point - These aren't crucial to the objectives of the course, but are fun or interesting anecdotes from [Milestones: The Story of WordPress](https://github.com/WordPress/book) These will be italic block-quotes. These points are often open to interpretation, and depending on your expertise in the subject matter, are excellent opportunities to open the floor for questions or discussion, depending on audience size.*
 
 ## Have You Thought About...?
 
@@ -186,7 +186,7 @@ In today's talk, you're going to learn about how WordPress was born, and grew in
 > **Facilitator** - Proceed to slide 4 - The Blogging Software Dilemma
 
 * On Januuary 24, 2003, Matt Mullenweg writes a blog post entitled "The Blogging Software Dilemma."
-  * In it, he laments that Valdrighi has been missing from the development community, and worries about his safety.
+ * In it, he laments that Valdrighi has been missing from the development community, and worries about his safety.
   * Mullenweg speculates about the future, concerned about, among other things:
     * Forward-compatibility.
     * Features and flexibility.
@@ -200,7 +200,7 @@ In today's talk, you're going to learn about how WordPress was born, and grew in
   * Mullenweg and Little submit over 100 commits between April 1 and May 27, 2003.
 
 #### Whoa. WordPress  
-> *Facilitator Talking Point - Matt Mullenweg is known for creating WordPress, but his love of Jazz and Haiku still survive into the modern day. Major releases of WordPress are still nicknamed after Jazz muscians, and the phrase, "Code is Poetry" still remains the mantra.*
+> *Facilitator Talking Point - Matt Mullenweg is known for creating WordPress, but his love of Jazz and Haiku Poetry still survive into the modern-day code. Major releases of WordPress are still nicknamed after Jazz musicians, and the phrase, "Code is Poetry" still remains the mantra for WordPress Developers.*
 
 > **Facilitator** - Proceed to Slide 5, and proceed slowly to reveal each line of the first WordPress History Haiku.
 
@@ -226,20 +226,25 @@ In today's talk, you're going to learn about how WordPress was born, and grew in
 #### 2004
 
 * In January, 2004, WordPress 1.0 "Davis" is launched, named after famed Jazz Trumpeter Miles Davis.
+* Later that year, the popular blogging software [Movable Type](www.movabletype.org) changes its License and Pricing structure, to the dismay of thousands of Bloggers who had relied on its free (as in beer) model.
+ * As a result, WordPress downloads more than double, and grows from 8,670 active installations in April, 2004 to 19,400 in May.
 
-All [versions of WordPress](https://codex.wordpress.org/WordPress_Versions) were named after jazz greats because Matt had an affinity for jazz music. Version 1.0 was released in January and was named Davis after Jazz musician Miles Davis.
+> **Facilitator** - Proceed to slide 7
 
-In May 2004, the pricing structure of the competing blogging software Movable Type increased significantly, which caused WordPress downloads on [SourceForge](https://sourceforge.net/) to more than double. There was an increase from 8,670 in April 2004 to 19,400 in May.
+* WordPress "Mingus" launches with numerous improvements, including:
+ * Hooks and Filters are introduced, providing the extensible framework for Plugins and Themes.
+ * Language internationalization is introduced, contributing to World-Wide adoption.
 
-Version 1.2 was launched in May with dramatic changes including internationalization, plug-ins, and hooks. [Hooks](https://www.smashingmagazine.com/2011/10/definitive-guide-wordpress-hooks/) and plugins were put in place so developers no longer had to hack the core code to make a change to the way the blog they were building worked.
+> **Facilitator** - Proceed to show the sub-caption
 
-A [plugin](https://wordpress.org/plugins/tags/plugin) called "Hello Dolly" started to be packaged with every release of WordPress as a tribute to Louis Armstrong.  It was about this time that the plugin repository was formed.
+* A [plugin](https://wordpress.org/plugins/tags/plugin) called "Hello Dolly" is now included in core downloads.
+ * A tribute to Louis Armstrong, but also a demonstration of the power to use hooks and filters to modify WordPress.
 
-Developer Ryan Boren came on board. Ryan not only wrote code, but contributed ideas on how development should take place.
+ > *Facilitator Talking Points - It's difficult to overstate how important these changes to WordPress are in its history. Hooks and Filters formed the basis of the WordPress API, inviting developers to extend WordPress in ways that the authors could scarcely imagine; and built-in internationalization attracted those developers from every corner of the World. The core values of devotion to Free Open Source Software (FLOSS), compatibility and accessibility, and standards remain, to this day, the driving principles of the project.*
 
-In July 2004, the wiki was renamed [Codex](https://codex.wordpress.org/).
-
-While stuck in San Francisco over Christmas Matt wrote the code for bbPress, which became the home the WordPress forums.  The forums, a place to talk about everything WordPress, had previously run on miniBB, but had outgrown that software.
+* In late December, 2004, Mullenweg is stuck in San Francisco, California, over the Christmas Holiday.
+* During this downtime, he writes the orignal source for bbPress.
+ * This becomes the infrastructure for the [WordPress Support Forums](https://wordpress.org/support/).
 
 #### 2005
 
