@@ -8,12 +8,12 @@ In this lesson you will learn the story of how WordPress began as a simple blo
 
 After completing this lesson, you will be able to:
 * List and describe 6 Major Milestones of WordPress, including:
- * Pre-History of WordPress.
- * The conception of, and original contributors to, WordPress.
- * The introduction of Hooks, Plugins, and Themes to WordPress.
- * The founding of Automattic.
- * The introduction of the modern dashboard.
- * The evolution to becoming a CMS.
+  - Pre-History of WordPress.
+  - The conception of, and original contributors to, WordPress.
+  - The introduction of Hooks, Plugins, and Themes to WordPress.
+  - The founding of Automattic.
+  - The introduction of the modern dashboard.
+  - The evolution to becoming a CMS.
 
 ## Target Audience
 
@@ -73,10 +73,10 @@ Participants will get the most from this lesson if they have familiarity with:
 ## Notes for the Instructor
 
 * Facilitation Directives:
-> **Facilitator** - action items, such as navigating in the slide presentation, are presented as a block-quote with the bold label.
+  > **Facilitator** - action items, such as navigating in the slide presentation, are presented as a block-quote with the bold label.
 
 * Optional talking points:
-   > *Facilitation Talking Point - These aren't crucial to the objectives of the course, but are fun or interesting anecdotes from [Milestones: The Story of WordPress](https://github.com/WordPress/book) These will be italic block-quotes. These points are often open to interpretation, and depending on your expertise in the subject matter, are excellent opportunities to open the floor for questions or discussion, depending on audience size.*
+  > *Facilitation Talking Point - These aren't crucial to the objectives of the course, but are fun or interesting anecdotes from [Milestones: The Story of WordPress](https://github.com/WordPress/book) These will be italic block-quotes. These points are often open to interpretation, and depending on your expertise in the subject matter, are excellent opportunities to open the floor for questions or discussion, depending on audience size.*
 
 ## Have You Thought About...?
 
@@ -84,10 +84,9 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Lesson Overview
 
-* This course is presented as a Lecture Discussion.
-* Bullet points are meant to be a guideline, not a script.
+* This course is presented as a Lecture Discussion covering the highlights of the timeline of WordPress.
+* Bullet points are meant to be a guide, not a script.
 * Facilitators should read [Milestones: The Story of WordPress](https://github.com/WordPress/book) to build expertise before facilitating the discussion.
-
 
 ## Exercises
 
@@ -106,7 +105,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 **Answer:** 2\. Mike Little and 3\. Matt Mullenweg
 
-**In what year was WordPress officially launched? **
+**In what year was WordPress officially launched?**
 
 1.  2001
 2.  2002
@@ -174,6 +173,7 @@ In today's talk, you're going to learn about how WordPress was born, and grew in
   * User-avatars.
   * Multiple ways of archiving.
 * Notably, the software could be installed on a hosting platform by making small edits to a config file, and then running an installation script; very similar to the famous "5-Minute Install."
+
    > *Faclitation Talking Point - Years later, Valdrighi was quoted regarding the idiosyncrasies of WordPress's Code, saying, "When you look at WordPress's code and think 'Wow, that is weird; why did they do that this way?' Well, often that was because they just kept doing things the way they were done in b2, and I sucked at PHP."*
 * Most notably of all, Valdrighi made the decision to license b2 under the [GNU Pulic License](http://www.gnu.org/licenses/gpl-3.0.en.html), which meant that it could be modified by anyone.
 
