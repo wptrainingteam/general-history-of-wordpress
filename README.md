@@ -106,7 +106,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 **Answer:** 2\. Mike Little and 3\. Matt Mullenweg
 
-**In what year was WordPress officially launched? **
+**In what year was WordPress officially launched?**
 
 1.  2001
 2.  2002
