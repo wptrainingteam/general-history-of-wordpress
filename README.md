@@ -73,10 +73,10 @@ Participants will get the most from this lesson if they have familiarity with:
 ## Notes for the Instructor
 
 * Facilitation Directives:
-> **Facilitator** - action items, such as navigating in the slide presentation, are presented as a block-quote with the bold label.
+  > **Facilitator** - action items, such as navigating in the slide presentation, are presented as a block-quote with the bold label.
 
 * Optional talking points:
-   > *Facilitation Talking Point - These aren't crucial to the objectives of the course, but are fun or interesting anecdotes from [Milestones: The Story of WordPress](https://github.com/WordPress/book) These will be italic block-quotes. These points are often open to interpretation, and depending on your expertise in the subject matter, are excellent opportunities to open the floor for questions or discussion, depending on audience size.*
+  > *Facilitation Talking Point - These aren't crucial to the objectives of the course, but are fun or interesting anecdotes from [Milestones: The Story of WordPress](https://github.com/WordPress/book) These will be italic block-quotes. These points are often open to interpretation, and depending on your expertise in the subject matter, are excellent opportunities to open the floor for questions or discussion, depending on audience size.*
 
 ## Have You Thought About...?
 
@@ -84,10 +84,9 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Lesson Overview
 
-* This course is presented as a Lecture Discussion.
-* Bullet points are meant to be a guideline, not a script.
+* This course is presented as a Lecture Discussion covering the highlights of the timeline of WordPress.
+* Bullet points are meant to be a guide, not a script.
 * Facilitators should read [Milestones: The Story of WordPress](https://github.com/WordPress/book) to build expertise before facilitating the discussion.
-
 
 ## Exercises
 
