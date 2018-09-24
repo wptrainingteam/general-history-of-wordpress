@@ -175,7 +175,7 @@ In today's talk, you're going to learn about how WordPress was born, and grew in
   * Multiple ways of archiving.
 * Notably, the software could be installed on a hosting platform by making small edits to a config file, and then running an installation script; very similar to the famous "5-Minute Install."
    > *Faclitation Talking Point - Years later, Valdrighi was quoted regarding the idiosyncrasies of WordPress's Code, saying, "When you look at WordPress's code and think 'Wow, that is weird; why did they do that this way?' Well, often that was because they just kept doing things the way they were done in b2, and I sucked at PHP."*
-* Most notably of all, Valdrighi made the decision to license b2 under the [GNU Pulic License](http://www.gnu.org/licenses/gpl-3.0.en.html), which meant that it could be modified by anyone.
+* Most notably of all, Valdrighi made the decision to license b2 under the [GNU Public License](http://www.gnu.org/licenses/gpl-3.0.en.html), which meant that it could be modified by anyone.
 
 #### 2002
 
