@@ -149,7 +149,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 In today's talk, you're going to learn about how WordPress was born, and grew into the project we know and love today.
 * The Origins of WordPress, before it became known as WordPress.
-* The conception of, and original authors of WordPress
+* The conception of, and original authors of WordPress.
 * The introduction of Hooks, Plugins, and Themes - which gave WordPress the capability to adapt to your needs.
 * The founding of Automattic, which gave WordPress the financial underpinnings to grow its developer base.
 * The introduction of the modern Dashboard, which is now your window to writing on the internet.
