@@ -9,7 +9,7 @@ In this lesson you will learn the story of how WordPress began as a simple blo
 After completing this lesson, you will be able to:
 * List and describe 6 Major Milestones of WordPress, including:
  * Pre-History of WordPress.
- * The conception of, and original contributors to, WordPress.
+ * The conception of, and original contributors to, WordPress
  * The introduction of Hooks, Plugins, and Themes to WordPress.
  * The founding of Automattic.
  * The introduction of the modern dashboard.
