@@ -132,6 +132,15 @@ Participants will get the most from this lesson if they have familiarity with:
 
 **Answer:** 4\. The WordPress Foundation
 
+**On which wordpress version plugins were introduced?**
+
+1.  version 1.0
+2.  version 1.1
+3.  version 1.2
+4.  version 1.3
+
+**Answer:** 3\. version 1.2
+
 ## Additional Resources
 
 1.  [Milestones: The Story of WordPress](https://github.com/WordPress/book) book
