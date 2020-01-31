@@ -183,7 +183,7 @@ In today's talk, you're going to learn about how WordPress was born, and grew in
   * Multiple ways of archiving.
 * Notably, the software could be installed on a hosting platform by making small edits to a config file, and then running an installation script; very similar to the famous "5-Minute Install."
 
-   > *Faclitation Talking Point - Years later, Valdrighi was quoted regarding the idiosyncrasies of WordPress's Code, saying, "When you look at WordPress's code and think 'Wow, that is weird; why did they do that this way?' Well, often that was because they just kept doing things the way they were done in b2, and I sucked at PHP."*
+   > *Facilitation Talking Point - Years later, Valdrighi was quoted regarding the idiosyncrasies of WordPress's Code, saying, "When you look at WordPress's code and think 'Wow, that is weird; why did they do that this way?' Well, often that was because they just kept doing things the way they were done in b2, and I sucked at PHP."*
 * Most notably of all, Valdrighi made the decision to license b2 under the [GNU Public License](http://www.gnu.org/licenses/gpl-3.0.en.html), which meant that it could be modified by anyone.
 
 #### 2002
@@ -194,7 +194,7 @@ In today's talk, you're going to learn about how WordPress was born, and grew in
 
 > **Facilitator** - Proceed to slide 4 - The Blogging Software Dilemma
 
-* On Januuary 24, 2003, Matt Mullenweg writes a blog post entitled "The Blogging Software Dilemma."
+* On January 24, 2003, Matt Mullenweg writes a blog post entitled "The Blogging Software Dilemma."
  * In it, he laments that Valdrighi has been missing from the development community, and worries about his safety.
   * Mullenweg speculates about the future, concerned about, among other things:
     * Forward-compatibility.
