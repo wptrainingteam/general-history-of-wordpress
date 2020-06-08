@@ -194,7 +194,7 @@ In today's talk, you're going to learn about how WordPress was born, and grew in
 
 > **Facilitator** - Proceed to slide 4 - The Blogging Software Dilemma
 
-* On Januuary 24, 2003, Matt Mullenweg writes a blog post entitled "The Blogging Software Dilemma."
+* On January 24, 2003, Matt Mullenweg writes a blog post entitled "The Blogging Software Dilemma."
  * In it, he laments that Valdrighi has been missing from the development community, and worries about his safety.
   * Mullenweg speculates about the future, concerned about, among other things:
     * Forward-compatibility.
